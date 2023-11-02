@@ -1,0 +1,7 @@
+{
+  "name": "@apsu/github-api",
+  "version": "0.0.0",
+  "description": "consume GitHub REST API",
+  "type": "module",
+  "exports": "./github-api.js"
+}
